@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://neon-sopapillas-f727bb.netlify.app/sitemap.xml
